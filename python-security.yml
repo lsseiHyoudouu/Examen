@@ -21,4 +21,4 @@ jobs:
           pip install bandit
 
       - name: Run Bandit
-        run: bandit -r your_project_directory
+        run: bandit -r prueba
